@@ -4,7 +4,7 @@ const { Console, Random } = MissionUtils;
 
 class BaseballGame {
   #randomNumber = [];
-  #userNumber;
+  #userNumber = [];
   #gameOver = false;
 
   #isDuplication(nums) {
