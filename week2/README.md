@@ -68,7 +68,7 @@ var heungmin = new 틀(); // 오브젝트 생성 한줄 컷!
 
 실제 heungmin을 출력해보자
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/27f53652-0203-47bb-ba47-d9618baedb3a/981fa366-2ab2-4392-8f93-4e36e7e36fd0/Untitled.png)
+![첫번째](https://github.com/Klomachenko/functional_js/assets/102893954/4606b1b1-4cdd-4e94-92b8-1eaf28727cc3)
 
 - 여기 ‘틀’은 출신을 나타내준다! (누가 생성한건지 알려줌)
   (아 이 heungmin이라는 object는 ‘틀’에서 찍어낸거구나~)
@@ -99,7 +99,7 @@ var heungmin = new 틀('wing', 'tottenham');
 var minjae = new 틀('centerback', 'muenchen');
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/27f53652-0203-47bb-ba47-d9618baedb3a/bb9ea29e-1529-4cc4-bc42-b2b52428ba78/Untitled.png)
+![두번째](https://github.com/Klomachenko/functional_js/assets/102893954/22a65239-9bc6-499d-98d9-f5c1541db756)
 
 - 이제 계속 쓸데없이 object를 생성하지 않고, 한줄로 간단하게 생성이 가능해진다!
 
